@@ -32,16 +32,16 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Adilet Masalbekov",
     description: "Software Developer • AI Specialist • QA Engineer",
-    url: "https://adiletmasalbekov.com",
+    url: "https://adiletmasalbekov.vercel.app",
     siteName: "Adilet Masalbekov",
-    images: [{ url: "/og.png", width: 1200, height: 630 }],
+    images: [{ url: "/og.png?v=2", width: 1200, height: 630 }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "Adilet Masalbekov",
     description: "Software Developer • AI Specialist • QA Engineer",
-    images: ["/og.png"],
+    images: ["/og.png?v=2"],
   },
 };
 
@@ -61,7 +61,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         )}
 
         <SpaceETHBackground />
-
         <div className="relative z-10">
           <Header />
           {children}
