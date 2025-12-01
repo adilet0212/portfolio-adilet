@@ -1,0 +1,36 @@
+---
+title: "Hospital Management System"
+slug: "hospital-system"
+summary: "A PL/SQL-based hospital management solution supporting patient, appointment, billing, and inventory automation."
+date: "2024-08-10"
+tags: ["Database", "PL/SQL", "Oracle"]
+stack: ["Oracle", "PL/SQL", "SQL"]
+image: "/images/projects/hospital-system/cover.png"
+---
+
+## Overview
+The **Hospital Management System** automates major hospital workflows such as patient registration, appointment scheduling, payments, and medicine inventory.  
+Built using **Oracle PL/SQL**, it incorporates **procedures**, **triggers**, and **packages** to streamline data flow and ensure transactional accuracy.
+
+<Figure src="/images/projects/hospital-system/erdiagram.png" caption="ER Diagram" ratio="16/9" />
+
+## Core Modules
+- **Patient Management:** Add/search patients with validation to prevent duplicates.
+- **Appointment Scheduling:** Conflict-handling triggers prevent double bookings.
+- **Billing & Payments:** Automated cost calculations and detailed history reports.
+- **Inventory System:** Auto-update triggers for stock-in/out and expiry tracking.
+
+## My Contributions
+- Developed and optimized **inventory management triggers and procedures** to maintain real-time stock accuracy.
+- Implemented **inventory checking modules** for staff to query availability and expiration data.
+- Designed and documented the **database schema** and **ER diagram** for all hospital entities.
+- Coordinated integration testing with patient and appointment modules.
+
+## Database Design
+Entities include: Doctors, Patients, Appointments, Treatments, Medications, Inventory, Payments, and Insurance.  
+Each is interconnected through foreign keys ensuring referential integrity and efficient query performance.
+
+## Future Enhancements
+- Automated **SMS/email reminders** for upcoming appointments.
+- **Expiry alerts** for medicines nearing due dates.
+- **Role-based access** and **audit trails** for enhanced data security.

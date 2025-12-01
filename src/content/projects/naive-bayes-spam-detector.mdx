@@ -1,0 +1,34 @@
+---
+title: "Naïve Bayes Spam Comment Detector"
+slug: "naive-bayes-spam-detector"
+summary: "An NLP model that classifies YouTube comments as spam or non-spam using TF-IDF and Multinomial Naïve Bayes."
+date: "2023-11-07"
+tags: ["AI", "NLP", "Machine Learning"]
+stack: ["Python", "pandas", "scikit-learn"]
+featured: true
+repo: "https://github.com/adilet0212/naive-bayes-spam-detector"
+image: "/images/projects/naive-bayes-spam-detector/cover.png"
+---
+
+## Overview
+This project aimed to **detect spam in YouTube comments** using text classification techniques.  
+We used a labeled dataset from the **UCI Machine Learning Repository** and built a supervised learning pipeline leveraging TF-IDF vectorization and a **Multinomial Naïve Bayes** classifier.
+
+Our workflow followed a complete ML lifecycle — from data preprocessing to evaluation and performance tuning.  
+The model achieved **96.6% accuracy** and demonstrated excellent precision on spam detection tasks.
+
+<Figure src="/images/projects/naive-bayes-spam-detector/pipeline.png" caption="Pipeline from dataset preprocessing to model evaluation" ratio="16/9" />
+
+## My Contributions
+- Led **feature engineering** and text cleaning using tokenization and stop-word removal.
+- Implemented **TF-IDF transformation** and grid search to optimize model parameters.
+- Visualized classification metrics (confusion matrix, accuracy chart, F1 score) in **Matplotlib**.
+- Helped design presentation slides and summarized the findings for our final report and demonstration.
+
+## Results
+- Cross-validation mean accuracy: **93.9%**
+- Test accuracy: **96.6%**
+- Minimal overfitting and balanced precision-recall tradeoff.
+
+## Tech Stack
+Python • pandas • scikit-learn • NumPy • Matplotlib
