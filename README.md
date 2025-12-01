@@ -1,7 +1,6 @@
 ﻿# Adilet Masalbekov – Portfolio
 
-My personal portfolio website
-This site showcases my experience, projects, skills, and other information.
+My personal portfolio website which showcases my experience, projects, skills, and other information.
 
 Live site: **https://adiletmasalbekov.vercel.app**
 
@@ -95,3 +94,4 @@ src/
 
 
   globals.css            # Tailwind + global styles
+
