@@ -12,20 +12,19 @@ Live site: **https://adiletmasalbekov.vercel.app**
   - Short intro, role summary, and primary CTAs (view projects, download resume).
 
 - **About page**
-  - Human, story-style overview of my background.
-  - Education card with key courses from the Software Engineering Technology – AI program at Centennial College.
-  - Skills grouped into categories (Programming, AI & Data, Databases, QA, Cloud & DevOps, Tools).
+  - Overview of my background.
+  - Education card with key courses from my program.
+  - Skills grouped into categories.
 
 - **Experience page**
-  - Timeline-style cards for professional & volunteer roles.
-  - Focus on QA automation, AI tools, and IT service desk experience.
+  - Cards for professional & volunteer roles.
 
 - **Projects page**
-  - Highlighted projects with individual detail pages (`/projects/[slug]`).
+  - Highlighted projects with individual detail pages.
   - Each project includes problem, tech stack, contributions, and outcomes.
 
 - **Resume page**
-  - Embedded / downloadable PDF resume for quick access by hiring managers.
+  - Embedded / downloadable PDF resume for quick access.
 
 - **Contact page**
   - Contact form with validation and email delivery via Resend.
@@ -33,8 +32,7 @@ Live site: **https://adiletmasalbekov.vercel.app**
 
 - **Global design**
   - Space-themed background with glassmorphism cards.
-  - Dark mode only for a consistent visual identity.
-  - Custom favicon and Open Graph image for nice previews when sharing links.
+  - Custom favicon and other design features.
 
 ---
 
@@ -94,4 +92,5 @@ src/
 
 
   globals.css            # Tailwind + global styles
+
 
