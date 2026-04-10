@@ -266,18 +266,20 @@ export default function AboutPage() {
           <article className="glass rounded-2xl border border-neutral-200 p-6 shadow-sm dark:border-neutral-800">
             <SectionHeading>Hi — I’m Adilet</SectionHeading>
             <p className="mt-2 text-neutral-700 dark:text-neutral-300">
-              I’m in my final year of the Software Engineering Technology – AI program at Centennial College, where I’ve learned a lot more than just technical skills. 
-              These past years have helped me grow as a person — meeting new people, working in diverse teams, and learning how to communicate, collaborate, and build real connections. 
-              It shaped not only my career direction but also the way I approach problems and people.
+              I graduated from Centennial College's Software Engineering Technology – AI program, and I'm looking for my first full-time role in software engineering, QA, or AI/ML.
             </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
-              I also completed multiple co-op terms with the Ontario Government (MCCSS) and the Department of National Defence of Canada, which gave me real hands-on experience in the tech field. 
-              That’s where I learned what it actually means to make an impact — improving systems that real users rely on, supporting teams, building tools, fixing issues, and seeing how even small improvements can make someone’s day easier.
+              The thing I love most about this field is that it's one of the few where a 22-year-old with a laptop can actually build something that helps another human being. I got to feel that for the first time during my co-op at the Ministry of Children, Community and Social Services, working on MyBenefits — the platform Ontario Works and ODSP recipients use to manage their support. The defects I caught and the tests I wrote weren't abstract. There were real people on the other side, and getting their experience right mattered. That's the work I want to keep doing.
             </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
-              I always try to contribute to the well-being of others, whether through volunteering, helping classmates, or building something useful.
-              Knowing that my work has a positive impact means a lot to me. 
-              I’m excited to keep learning and creating things that genuinely help people as I grow in my career.
+              After MCCSS, I spent the summer at the Department of National Defence on the Service Desk team, supporting military and civilian staff in a classified environment. It taught me how to operate carefully in systems where mistakes have real consequences, and how to communicate clearly with people who don't have time for jargon.
+            </p>
+            <p className="mt-3 text-neutral-700 dark:text-neutral-300">
+              I came to Canada from Kyrgyzstan a few years ago, and a lot of who I am as an engineer comes from having to figure things out from scratch — a new country, a new language, a new field. I think it's why I'm drawn to projects where the goal isn't just to make something work, but to make it actually useful for the person using it.            </p>
+            <p className="mt-3 text-neutral-700 dark:text-neutral-300">
+              Outside of code, I wrestle and train Brazilian Jiu-Jitsu, play soccer and ping-pong, mess around with guitar, and read whenever I can. The mat has probably taught me more about being a good engineer than I'd like to admit — mostly that getting stuck on a hard problem and getting choked out feel surprisingly similar, and the way out of both is staying calm and trying the next thing.            </p>
+            <p className="mt-3 text-neutral-700 dark:text-neutral-300">
+              If you're building something that helps real people and you need someone who'll care about the details, I'd love to hear from you.
             </p>
           </article>
 

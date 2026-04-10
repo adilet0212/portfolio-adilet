@@ -7,9 +7,9 @@ export default function Home() {
         <div className="rounded-2xl border border-white/10 bg-white/5 p-4 backdrop-blur-md">
           <HeroPhoto
             imageSrc="/images/avatar/photo.jpg"
-            title="Software Developer • AI Specialist • QA Engineer"
+            title="Software Engineer • QA Engineer • AI & ML"
             subtitle={
-              "Hey, my name is Adilet Masalbekov. Welcome to my portfolio!\nHere you’ll find a little about me, the projects I’ve worked on, and my experience in the tech industry."
+              "Hey, I'm Adilet — Software Engineering Technology – AI graduate from Toronto, building things that actually reach users. Here you'll find a little about me, the projects I've worked on, and my experience in the tech industry."
             }
             ctas={[
               { label: "View Projects", href: "/projects" },

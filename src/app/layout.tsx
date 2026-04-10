@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Adilet Masalbekov",
-  description: "Software Developer • AI Specialist • QA Engineer",
+  description: "Software Engineer • QA Engineer • AI & ML",
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Adilet Masalbekov",
-    description: "Software Developer • AI Specialist • QA Engineer",
+    description: "Software Engineer • QA Engineer • AI & ML",
     url: "https://adiletmasalbekov.vercel.app",
     siteName: "Adilet Masalbekov",
     images: [{ url: "/og.png?v=2", width: 1200, height: 630 }],
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Adilet Masalbekov",
-    description: "Software Developer • AI Specialist • QA Engineer",
+    description: "Software Engineer • QA Engineer • AI & ML",
     images: ["/og.png?v=2"],
   },
 };
