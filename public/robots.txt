@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://adiletmasalbekov.com
+
+# Sitemaps
+Sitemap: https://adiletmasalbekov.com/sitemap.xml
