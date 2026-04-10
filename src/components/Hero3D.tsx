@@ -28,7 +28,7 @@ function Icosahedron() {
 }
 
 export default function Hero3D({
-  title = "Software Developer • AI Specialist • QA Engineer",
+  title = "Software Engineer • QA Engineer • AI & ML",
   subtitle = "I design, test, and ship reliable, intelligent, user-centered systems.",
   chips = [{ label: "95% bug-resolution" }, { label: "30% faster triage" }, { label: "40% faster DB retrieval" }],
   ctas = [{ label: "View Projects", href: "#projects" }, { label: "Download Resume", href: "/resume" }],

@@ -225,7 +225,7 @@ export default function AboutPage() {
             <div>
               <h1 className="text-3xl font-bold tracking-tight">About Me</h1>
               <p className="text-neutral-600 dark:text-neutral-300">
-                Software Developer • AI Specialist • QA Engineer
+                Software Engineer • QA Engineer • AI & ML
               </p>
             </div>
           </div>
@@ -269,7 +269,7 @@ export default function AboutPage() {
               I graduated from Centennial College's Software Engineering Technology – AI program, and I'm looking for my first full-time role in software engineering, QA, or AI/ML.
             </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
-              The thing I love most about this field is that it's one of the few where a 22-year-old with a laptop can actually build something that helps another human being. I got to feel that for the first time during my co-op at the Ministry of Children, Community and Social Services, working on MyBenefits — the platform Ontario Works and ODSP recipients use to manage their support. The defects I caught and the tests I wrote weren't abstract. There were real people on the other side, and getting their experience right mattered. That's the work I want to keep doing.
+              The thing I love most about this field is that it's one of the few where a 21-year-old with a laptop can actually build something that helps another human being. I got to feel that for the first time during my co-op at the Ministry of Children, Community and Social Services, working on MyBenefits — the platform Ontario Works and ODSP recipients use to manage their support. The defects I caught and the tests I wrote weren't abstract. There were real people on the other side, and getting their experience right mattered. That's the work I want to keep doing.
             </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
               After MCCSS, I spent the summer at the Department of National Defence on the Service Desk team, supporting military and civilian staff in a classified environment. It taught me how to operate carefully in systems where mistakes have real consequences, and how to communicate clearly with people who don't have time for jargon.
@@ -277,7 +277,7 @@ export default function AboutPage() {
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
               I came to Canada from Kyrgyzstan a few years ago, and a lot of who I am as an engineer comes from having to figure things out from scratch — a new country, a new language, a new field. I think it's why I'm drawn to projects where the goal isn't just to make something work, but to make it actually useful for the person using it.            </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
-              Outside of code, I wrestle and train Brazilian Jiu-Jitsu, play soccer and ping-pong, mess around with guitar, and read whenever I can. The mat has probably taught me more about being a good engineer than I'd like to admit — mostly that getting stuck on a hard problem and getting choked out feel surprisingly similar, and the way out of both is staying calm and trying the next thing.            </p>
+              Outside of code, I practice wrestling and train Brazilian Jiu-Jitsu, mess around with guitar, and read whenever I can. The mat has probably taught me more about being a good engineer than I'd like to admit — mostly that getting stuck on a hard problem and getting choked out feel surprisingly similar, and the way out of both is staying calm and trying the next thing.            </p>
             <p className="mt-3 text-neutral-700 dark:text-neutral-300">
               If you're building something that helps real people and you need someone who'll care about the details, I'd love to hear from you.
             </p>

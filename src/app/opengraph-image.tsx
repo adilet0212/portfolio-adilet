@@ -20,7 +20,7 @@ export default async function OG() {
         }}
       >
         <div style={{ fontSize: 28, opacity: 0.8, marginBottom: 12 }}>
-          Software Developer • AI Specialist • QA Engineer
+          Software Engineer • QA Engineer • AI & ML
         </div>
         <div style={{ fontWeight: 800, letterSpacing: -1 }}>
           Adilet Masalbekov

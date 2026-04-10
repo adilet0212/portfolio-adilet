@@ -16,7 +16,7 @@ type Props = {
 };
 
 export default function HeroPhoto({
-  title = "Software Developer • AI Specialist • QA Engineer",
+  title = "Software Engineer • QA Engineer • AI & ML",
   subtitle = "Hey, my name is Adilet Masalbekov. Welcome to my portfolio! Here you’ll find a little about me, the projects I’ve worked on, and my experience in software development, AI, and QA. I like learning new things, solving real problems, and building software that’s reliable and easy to use.",
   ctas = [{ label: "View Projects", href: "/projects" }, { label: "Download Resume", href: "/resume" }],
   imageSrc,
